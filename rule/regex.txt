@@ -1,4 +1,4 @@
-# Update time: 2025-12-31 20:40:19
+# Update time: 2026-01-01 09:48:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -139,6 +139,7 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -162,8 +163,6 @@ advertisers.js|
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||ad*.aginomoto.com
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -221,6 +220,8 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -310,6 +311,7 @@ advertisers.js|
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
+||track.*.roku.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -487,7 +489,6 @@ advertisers.js|
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
-||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -514,8 +515,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 |load.sst.
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -564,11 +568,11 @@ analytics-*.aasaam.com
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
-||track.*.roku.com^
 ||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
@@ -607,6 +611,7 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -710,17 +715,12 @@ analytics-*.aasaam.com
 ||touch.yesim.
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||142.91.159.
 ||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||advert*.livesportmedia.eu^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 ||prebid-*.rubiconproject.com^
+@@||cdn*.porn300.com^
 Banner468x60
