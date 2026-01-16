@@ -18,7 +18,7 @@ application:
       - 'https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
       - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
       - 'https://raw.githubusercontent.com/REIJI007/Adblock-Rule-Collection/main/ADBLOCK_RULE_COLLECTION.txt' #REIJI007adguard
-      - 'https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt' httpdns and pcdn the block
+      - 'https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt' #httpdns and pcdn the block
       - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
       - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
       - 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
