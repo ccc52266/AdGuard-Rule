@@ -1,4 +1,4 @@
-# Update time: 2026-01-17 17:03:13
+# Update time: 2026-01-17 20:45:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -8896,6 +8896,7 @@
 0.0.0.0 ph-ad20.focalink.com
 0.0.0.0 serv-canada2024.com
 0.0.0.0 popunder.loading-delivery1.com
+0.0.0.0 t.atpanel.com
 0.0.0.0 openads.dimcab.com
 0.0.0.0 doubleclick.net
 0.0.0.0 marriottinternationa.tt.omtrdc.net
@@ -9323,6 +9324,7 @@
 0.0.0.0 ahzahg6ohb.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 ad-411.com
+0.0.0.0 stats.ipinyou.com
 0.0.0.0 downgradeproduct.com
 0.0.0.0 www.macatawa.org
 0.0.0.0 www.admex.com
@@ -13126,6 +13128,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 www.1man1jar.org
 0.0.0.0 adbg.hit.gemius.pl
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 e-2dj6wfkiqjcpifp.stats.esomniture.com
 0.0.0.0 poundporter.best
@@ -21350,7 +21353,6 @@
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 static.ju.mediav.com
 0.0.0.0 www.3gmimo.com
-0.0.0.0 t.atpanel.com
 0.0.0.0 s79.cnzz.com
 0.0.0.0 img.gaore.com
 0.0.0.0 y76.ylems.club
@@ -21573,7 +21575,6 @@
 0.0.0.0 vpn.yike0515.com
 0.0.0.0 1495039.com
 0.0.0.0 ad.epochtimes.com
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 tw.adx.nextmedia.com
 0.0.0.0 sh.shuqw.com
@@ -23561,7 +23562,6 @@
 0.0.0.0 cm.mediav.com
 0.0.0.0 u.umm6.cn
 0.0.0.0 hzs7.cnzz.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ad.pchome.com.tw
 0.0.0.0 t.d.yoyi.tv
 0.0.0.0 ad1.yangjinyou.com
@@ -27841,7 +27841,6 @@
 0.0.0.0 parkmodatoptan.com
 0.0.0.0 www.wa8veloop.info
 0.0.0.0 dataflowh.info
-0.0.0.0 www.nvod.pl
 0.0.0.0 www.qopimuculav.com
 0.0.0.0 s1.inviziads.com
 0.0.0.0 bwstatistics.sapoapps.vn
@@ -32741,7 +32740,6 @@
 0.0.0.0 pl-3267427.icu
 0.0.0.0 go1.aniview.com
 0.0.0.0 www.hyperbeamg.info
-0.0.0.0 sklepkody24.pl
 0.0.0.0 secflow.click
 0.0.0.0 openx.imoti.net
 0.0.0.0 nikefootball.112.2o7.net
@@ -33122,7 +33120,6 @@
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 qcv5.blogtruyen.vn
 0.0.0.0 advertur.ru
-0.0.0.0 fem-staffservice.ssl-lolipop.jp
 0.0.0.0 carneyinvestapp.com
 0.0.0.0 clixtk.com
 0.0.0.0 adwin.startappservice.com
@@ -38994,7 +38991,6 @@
 0.0.0.0 www.bitwavereactionaiapp.net
 0.0.0.0 people.api.boomtrain.com
 0.0.0.0 www.visitor-track.com #[WebBug]
-0.0.0.0 sdc.netiq.com
 0.0.0.0 www.wielkaniespodzianka.pl
 0.0.0.0 dogsofinstagram295d.info
 0.0.0.0 horizonpointventures.mom
@@ -39383,7 +39379,6 @@
 0.0.0.0 hematuncap.world
 0.0.0.0 78276.ussdns01.heketwe.com
 0.0.0.0 smetn.com
-0.0.0.0 www.steadyedgecapital.com
 0.0.0.0 www.leflix.us
 0.0.0.0 zenkreka.com
 0.0.0.0 email-link.adtidy.info
@@ -39533,7 +39528,6 @@
 0.0.0.0 www.lundynonfa.homes
 0.0.0.0 www.ultimatefundarena-app.com
 0.0.0.0 cdn.logly.co.jp
-0.0.0.0 dshine-salon.com
 0.0.0.0 adhall.com
 0.0.0.0 oculv.com
 0.0.0.0 ard.sexplaycam.com
@@ -40787,7 +40781,6 @@
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 www.ciullbypzu.world
 0.0.0.0 tube8vidsfgd.ddns.name
-0.0.0.0 x.clickcertain.com
 0.0.0.0 www.happyytrail.info
 0.0.0.0 celebslam.tags.crwdcntrl.net
 0.0.0.0 vz-cdn2.adtng.com
@@ -44881,7 +44874,6 @@
 0.0.0.0 www.venatrix-trader.net
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 www.deyubuhixufe.cloud
-0.0.0.0 aw.dw.impact-ad.jp
 0.0.0.0 ct2.aikotoba.jp
 0.0.0.0 www.joycart.club
 0.0.0.0 cache.specificmedia.com
@@ -48227,7 +48219,6 @@
 0.0.0.0 ulimosigni.rest
 0.0.0.0 www.voltixai.net
 0.0.0.0 www.interfinexapp.com
-0.0.0.0 www.olx.fi3f83fy3hu7.cyou
 0.0.0.0 proteflang.rest
 0.0.0.0 fhmonline.us.intellitxt.com
 0.0.0.0 c.eclick.vn
@@ -48902,7 +48893,6 @@
 0.0.0.0 galvanonhe.rest
 0.0.0.0 www.emberheartg.info
 0.0.0.0 tatilgibi.com
-0.0.0.0 www.summitstonepartners.mom
 0.0.0.0 s13.j-a-net.jp
 0.0.0.0 salecenter.shop
 0.0.0.0 www.fragnelhsspilar.org
@@ -49630,7 +49620,6 @@
 0.0.0.0 www.feldzorb.net
 0.0.0.0 www.notocdirim.my
 0.0.0.0 www.bookrayremotir.sviluppo.host
-0.0.0.0 ad-arata.s3.amazonaws.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 x2.mookie1.com
@@ -53148,7 +53137,6 @@
 0.0.0.0 sorpainzuc.pro
 0.0.0.0 zahnarzt-assistenzstelle.de
 0.0.0.0 www.fcvrear5687cdeertyu789im.destinychasecorp.su
-0.0.0.0 apexzotrum.com
 0.0.0.0 imediatovolarix64nova.com
 0.0.0.0 www.olx.t19t1uth3381.cyou
 0.0.0.0 gikon.pl
@@ -55746,7 +55734,6 @@
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 www.soheavy.club
 0.0.0.0 skyforgeconsulting.mom
-0.0.0.0 tinyfilehost.com
 0.0.0.0 h-adachi.org
 0.0.0.0 vm5apis.com
 0.0.0.0 www.lixludawozcilve.top
@@ -58794,7 +58781,6 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 actforvictoryorg.112.2o7.net
 0.0.0.0 l2.zedo.com
-0.0.0.0 ashenrforestkp.store
 0.0.0.0 www.6egtffv.lol
 0.0.0.0 sync.ads.yieldmo.com
 0.0.0.0 hi.admini.website
@@ -59552,7 +59538,6 @@
 0.0.0.0 prod.sift.co
 0.0.0.0 www.procosuper.world
 0.0.0.0 cdn.purpleads.io
-0.0.0.0 www.leaksage.heavydutyemails.com
 0.0.0.0 csm.us.criteo.net
 0.0.0.0 www.profitzone.com
 0.0.0.0 g.adspeed.net
@@ -67240,7 +67225,6 @@
 0.0.0.0 www.vinted.pl-2851541526kwhwttwh027262292621f.sbs
 0.0.0.0 www.santander-pl-5.top
 0.0.0.0 www.immediate-x-ai-app.com
-0.0.0.0 artwork.aim4media.com
 0.0.0.0 www.propertysuccessacademy.com
 0.0.0.0 www.eliianaart.com
 0.0.0.0 weofw540.icu
@@ -75095,7 +75079,6 @@
 0.0.0.0 www.seansikowo.pl
 0.0.0.0 www.theracingpa.com
 0.0.0.0 www.funklicks.com
-0.0.0.0 www.znajomisingle.space
 0.0.0.0 www.hobyray.com
 0.0.0.0 ad3.speedbit.com
 0.0.0.0 pl.ezviona.com
@@ -77886,7 +77869,6 @@
 0.0.0.0 www.hxqtpkzmy.com-crm.sbs
 0.0.0.0 www.promoricer.pro
 0.0.0.0 eucpviveusaprod.112.2o7.net
-0.0.0.0 www.sebogbakazodome.top
 0.0.0.0 skyforgeindustries.life
 0.0.0.0 m.usersonline.com #[WebBug]
 0.0.0.0 mediaxpedia.gotrackier.com
