@@ -1,4 +1,4 @@
-# Update time: 2026-01-25 10:07:55
+# Update time: 2026-01-25 20:49:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -27246,7 +27246,6 @@
 0.0.0.0 skullie.com
 0.0.0.0 www.elucirumpma.pro
 0.0.0.0 www.mooreava.shop
-0.0.0.0 yugvawefin.cloud
 0.0.0.0 5ew8d-b3mmu.ads.tremorhub.com
 0.0.0.0 www.plad5ashsas12xk.icu
 0.0.0.0 zaloads-480.zdn.vn
@@ -32395,6 +32394,7 @@
 0.0.0.0 app.push-ad.com
 0.0.0.0 pl-3267427.icu
 0.0.0.0 go1.aniview.com
+0.0.0.0 sklepkody24.pl
 0.0.0.0 secflow.click
 0.0.0.0 openx.imoti.net
 0.0.0.0 nikefootball.112.2o7.net
@@ -49681,7 +49681,6 @@
 0.0.0.0 felyniy.convertri.com
 0.0.0.0 booking.centralrome2026.com
 0.0.0.0 www.fhevfsh7d.xyz
-0.0.0.0 www.bitcoin-storm.com
 0.0.0.0 www.as7gda.hair
 0.0.0.0 ads.twitter.com
 0.0.0.0 s2s.singular.net
@@ -53842,7 +53841,6 @@
 0.0.0.0 newsyintera24.medianewsonline.com
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 www.soheavy.club
-0.0.0.0 tinyfilehost.com
 0.0.0.0 h-adachi.org
 0.0.0.0 vm5apis.com
 0.0.0.0 www.lixludawozcilve.top
@@ -54011,7 +54009,6 @@
 0.0.0.0 tracking2.vnncdn.net
 0.0.0.0 1c6e2.v.fwmrm.net
 0.0.0.0 btbaemaprod.112.2o7.net
-0.0.0.0 joinourwebsite.com
 0.0.0.0 bpizzabpproduction.112.2o7.net
 0.0.0.0 www.vukaskhokho.org
 0.0.0.0 jotarmu.today
@@ -55378,7 +55375,6 @@
 0.0.0.0 quantumcoreghana.com
 0.0.0.0 brand.zing.vn
 0.0.0.0 www.vyaa.org
-0.0.0.0 www.distinctlykool.com
 0.0.0.0 www.darkail.info
 0.0.0.0 partners.popmatters.com
 0.0.0.0 sdk-cdn.optimove.net
@@ -59760,6 +59756,7 @@
 0.0.0.0 fyvexlabfin-app.com
 0.0.0.0 afjcv.org
 0.0.0.0 www.nexoragloballogistics.com
+0.0.0.0 www.cloudbankd.info
 0.0.0.0 qc.japo.vn
 0.0.0.0 guest-access-portal.com
 0.0.0.0 lunarrealmsg.info
@@ -61819,6 +61816,7 @@
 0.0.0.0 todoloaseguro.com
 0.0.0.0 www.ibidet.net
 0.0.0.0 www.skolaroo.com
+0.0.0.0 www.unseavedov.rest
 0.0.0.0 espritensemble.com
 0.0.0.0 rate.opinionlab.com
 0.0.0.0 bank05.ads.mp.mydas.mobi
@@ -64663,7 +64661,6 @@
 0.0.0.0 www.northcountyvillage.com
 0.0.0.0 www.santander-pl-5.top
 0.0.0.0 www.sirkcaffe.rest
-0.0.0.0 artwork.aim4media.com
 0.0.0.0 www.riabidigon.rest
 0.0.0.0 www.eliianaart.com
 0.0.0.0 www.debugrayz.xyz
@@ -71432,7 +71429,6 @@
 0.0.0.0 www.maxiparfum.pl
 0.0.0.0 bitingreso.com
 0.0.0.0 www.huriha.com
-0.0.0.0 d-track.send.microad.jp
 0.0.0.0 scarfsmash.com
 0.0.0.0 t.lkqd.net
 0.0.0.0 tracking.jetpackdigital.com
@@ -71914,7 +71910,6 @@
 0.0.0.0 alerter.pl
 0.0.0.0 www.superprecio.com
 0.0.0.0 exactadvertising.com
-0.0.0.0 www.stalaspete.pro
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 live.monitus.net
 0.0.0.0 vinted.pl-smart81872412.cfd
@@ -74332,6 +74327,7 @@
 0.0.0.0 doctorbusy.com
 0.0.0.0 kueezrtb.com
 0.0.0.0 www.hagegay.com
+0.0.0.0 www.hybridresistancetraining.com
 0.0.0.0 catshubh.info
 0.0.0.0 newsinternational.122.2o7.net
 0.0.0.0 uf9vzg.icu
@@ -79292,6 +79288,7 @@
 0.0.0.0 www.jacatavo.today
 0.0.0.0 cripto-rastrox.net
 0.0.0.0 www.000free.us
+0.0.0.0 track.flexlinkspro.com
 0.0.0.0 www.48uu2.top
 0.0.0.0 buydig.122.2o7.net
 0.0.0.0 app-sji.marketo.com
@@ -80327,7 +80324,6 @@
 0.0.0.0 worldstarl.info
 0.0.0.0 bestpromosoffers.world
 0.0.0.0 www.aligea.com
-0.0.0.0 www.sinclairorion.shop
 0.0.0.0 prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
 0.0.0.0 smetrics.hyundaiusa.com
 0.0.0.0 manifest.localytics.com
@@ -83332,7 +83328,6 @@
 0.0.0.0 www.cuenta-tpxj2ezv5q.live-website.com
 0.0.0.0 worldwide-cash.net
 0.0.0.0 mwironworks.com
-0.0.0.0 www.worldsdancer.top
 0.0.0.0 rbc.medialand.ru
 0.0.0.0 ezthemes.com
 0.0.0.0 provehitto.world
