@@ -1,4 +1,4 @@
-# Update time: 2026-01-29 07:15:03
+# Update time: 2026-01-29 10:21:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -7604,6 +7604,7 @@
 0.0.0.0 www.banstex.com
 0.0.0.0 track.msadcenter.pwpn.com
 0.0.0.0 villepariis.fr
+0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 viralvideos.tips
 0.0.0.0 united-domaine.tech
 0.0.0.0 ph-ad09.focalink.com
@@ -13930,6 +13931,7 @@
 0.0.0.0 na.ads.yahoo.com
 0.0.0.0 profilenotice.info
 0.0.0.0 persgroepadvertising.nl
+0.0.0.0 email.headers.digital
 0.0.0.0 www.lottoforever.com
 0.0.0.0 www.adserver.net
 0.0.0.0 match.taboola.com
@@ -28798,6 +28800,7 @@
 0.0.0.0 edgexads.com
 0.0.0.0 ads.canalblog.com
 0.0.0.0 www.aa735267.liftmyresume.com
+0.0.0.0 telesoftcom.com
 0.0.0.0 www.say-no-2-boxes.xyz
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 aumofourwheeler.112.2o7.net
@@ -31344,7 +31347,6 @@
 0.0.0.0 nextwavelab.click
 0.0.0.0 app-ab17.marketo.com
 0.0.0.0 www.phaolohanh.org
-0.0.0.0 maalamin.sch.id
 0.0.0.0 www.vinted.pl-03982493293976446.sbs
 0.0.0.0 www.zt7nhv.lat
 0.0.0.0 www.prostovit.com
@@ -32955,7 +32957,6 @@
 0.0.0.0 qcv5.blogtruyen.vn
 0.0.0.0 www.txtrxn1.biz
 0.0.0.0 advertur.ru
-0.0.0.0 fem-staffservice.ssl-lolipop.jp
 0.0.0.0 www.savethefax.com
 0.0.0.0 clixtk.com
 0.0.0.0 adwin.startappservice.com
@@ -33469,7 +33470,6 @@
 0.0.0.0 fantasearesortbelize.com
 0.0.0.0 www.videossdfjfg.xyz
 0.0.0.0 www.tojoswetv.com
-0.0.0.0 uppyads.com
 0.0.0.0 www.parchslivo.rest
 0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 www.fieldssimilar.sbs
@@ -34775,7 +34775,6 @@
 0.0.0.0 nonprslent.rest
 0.0.0.0 cz11.clickzs.com
 0.0.0.0 www.barom.org
-0.0.0.0 www.nyqabyy.com
 0.0.0.0 ads.imarketservices.com
 0.0.0.0 lpagfafo.strongfitobody.com
 0.0.0.0 fczlatan.net
@@ -44195,6 +44194,7 @@
 0.0.0.0 www.stmarysiti.com
 0.0.0.0 www.diffusionpub.com
 0.0.0.0 aphookkensidah.pro
+0.0.0.0 www.dibosbufon.pro
 0.0.0.0 sdk.guard.mob.com
 0.0.0.0 www.pagebwh-enter34.com
 0.0.0.0 www.vulkanvegas33.com
@@ -47069,7 +47069,6 @@
 0.0.0.0 www.fh5safh.xyz
 0.0.0.0 www.security-update.ocry.com
 0.0.0.0 vertex-capital-ai-app.com
-0.0.0.0 www.yijoxitebozowih.today
 0.0.0.0 call-ad-network-api.marchex.com
 0.0.0.0 yotefiles.com
 0.0.0.0 img.mobee2.jp
@@ -54815,6 +54814,7 @@
 0.0.0.0 www.de6yo.best
 0.0.0.0 4anners.ero-advertising.com
 0.0.0.0 www.soheavy.club
+0.0.0.0 tinyfilehost.com
 0.0.0.0 h-adachi.org
 0.0.0.0 vm5apis.com
 0.0.0.0 www.lixludawozcilve.top
@@ -67367,7 +67367,6 @@
 0.0.0.0 frelkondax.pro
 0.0.0.0 foldexmoon.world
 0.0.0.0 vinted.3379173dy242930.cfd
-0.0.0.0 directorym.com
 0.0.0.0 voltmotorsales.org
 0.0.0.0 rhpjqcl.info
 0.0.0.0 www.checkin-acces-hub.com
@@ -69111,7 +69110,6 @@
 0.0.0.0 cdn.bigmining.com
 0.0.0.0 www.wws.ero-advertising.com
 0.0.0.0 www.bestshoes.top
-0.0.0.0 sitetracker.com
 0.0.0.0 e101.yt.srs.doubleverify.com
 0.0.0.0 naturalnegumowewitaminy.pl
 0.0.0.0 trustway.site
@@ -70044,7 +70042,6 @@
 0.0.0.0 www.govotubatugdehug.world
 0.0.0.0 riverpetl.info
 0.0.0.0 www.infitantis.rest
-0.0.0.0 www.vdebu.sbs
 0.0.0.0 www.insabrifle.rest
 0.0.0.0 www.pl-2114576.cfd
 0.0.0.0 www.sastisabzi.com
@@ -70236,7 +70233,6 @@
 0.0.0.0 www.zerowasteguideh.info
 0.0.0.0 www.pl-smart83712.sbs
 0.0.0.0 app2.mackeeperaffiliates.com
-0.0.0.0 shineadvance.digital
 0.0.0.0 jtell.org
 0.0.0.0 analytics.112.2o7.net
 0.0.0.0 biokidsl.info
@@ -71861,7 +71857,6 @@
 0.0.0.0 photo-battle.world
 0.0.0.0 slimxxxtubenqp.ddns.name
 0.0.0.0 sj-mknodepub.marketo.com
-0.0.0.0 www.apparelonline.shop
 0.0.0.0 www.freefpleased.sbs
 0.0.0.0 www.cbsmarket.co
 0.0.0.0 f5networksdevcentralprod.122.2o7.net
@@ -80185,6 +80180,7 @@
 0.0.0.0 aid.send.microad.jp
 0.0.0.0 imeds.ero-advertising.com
 0.0.0.0 www.linkjourney.digital
+0.0.0.0 ads-bilek.com
 0.0.0.0 www.pl18.landovn.com
 0.0.0.0 rogefya3.com
 0.0.0.0 ads.3sfmedia.com
@@ -81247,7 +81243,6 @@
 0.0.0.0 www.vinted.03851.click
 0.0.0.0 www.ricercritt.rest
 0.0.0.0 tracking.conduit.com
-0.0.0.0 www.pl-010670.cfd
 0.0.0.0 www.landtrov.com
 0.0.0.0 www.stonevalecorix.com
 0.0.0.0 www.toms-buty.com
@@ -85460,7 +85455,6 @@
 0.0.0.0 696f22f20f18e4d268af5cf7--adorable-alfajores-52f938.netlify.app
 0.0.0.0 hydrarinte.rest
 0.0.0.0 koniotrile.com
-0.0.0.0 www.jysk.truworthss.sbs
 0.0.0.0 www.perveautoc.rest
 0.0.0.0 clean.adups.com
 0.0.0.0 confirmation-id4374622.com
@@ -85974,7 +85968,6 @@
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 levantebrand.com
-0.0.0.0 ads.nj.com
 0.0.0.0 voltarigua.rest
 0.0.0.0 free.file.co.pl
 0.0.0.0 trafficgate.net
